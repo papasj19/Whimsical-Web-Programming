@@ -1,0 +1,23 @@
+.all-days{
+    background-color: darkseagreen;
+    display: flex;
+    justify-content: flex-start;
+}
+.saturday{
+    flex: 1;
+    background-color: white;
+    border: 2px darkgray;
+    padding: 30px;
+}
+.sunday{
+    flex: 1;
+    background-color: aliceblue;
+    border: 2px solid powderblue;
+    padding: 30px;
+}
+.monday{
+    flex: 1;
+    background-color: bisque;
+    border: 2px black;
+    padding: 30px;
+}

@@ -1,0 +1,79 @@
+body {
+    font-family: "Helvetica Neue";
+    display: flex;
+    justify-content: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+#app {
+    width: 100%;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    border-style: solid;
+    border-color: #888888;
+    border-width: 0.1rem;
+    border-radius: 0.2rem;
+    background: aliceblue;
+    padding: 0.1rem 0.5rem;
+    margin: 0.5rem 0.5rem 0.5rem 0;
+}
+
+nav a:link {
+    text-decoration: none;
+}
+
+nav a:visited {
+    text-decoration: none;
+}
+
+nav a:hover {
+    background: azure;
+}
+
+nav a:hover {
+    text-decoration: brown;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button {
+    border-style: solid;
+    border-color: #888888;
+    border-width: 0.1rem;
+    border-radius: 0.2rem;
+    background: aliceblue;
+
+    text-transform: uppercase;
+}
+
+button:hover {
+    background: azure;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table.guy{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+table.guy td{
+    text-align: center;
+    margin: 12px 12px 12px 12px;
+}
