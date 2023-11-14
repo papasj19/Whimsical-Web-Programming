@@ -6,6 +6,7 @@ during September 2023-January 2024
 ## System Requirements
 
 * [WebStorm](https://www.jetbrains.com/webstorm/)
+* [Vue](https://vuejs.org)
 
 ## Included Software
 
