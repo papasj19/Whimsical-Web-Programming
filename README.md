@@ -9,10 +9,12 @@ during September 2023-January 2024
 
 ## Included Software
 
-* [WebStorm](https://www.jetbrains.com/webstorm/)
-* The project relies on [Vue](https://vuejs.org)
-* Other Notes:
-    * tbd
+* Blog
+    * This project was my first experience practicing with website programming
+    * [Template from class](https://github.com/LS-PWI/vanilla-vite-template
+* Navigable Pages
+    * CSS using Flex
+    * [Template from class](https://github.com/LS-PWI/task-css-statement
 
 ## Contact
 
