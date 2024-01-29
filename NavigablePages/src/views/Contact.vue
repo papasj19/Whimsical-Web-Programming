@@ -8,12 +8,12 @@
         <address> <!-- Assuming that these addresses are to contact the team responsible for the website http://html5doctor.com/the-address-element/-->
           <div>
             <strong>PAPASJ INDUSTRIES</strong>
-            <p>Carrer Reus</p>
-            <p>Barcelona, Espana</p>
+            <p>Carrer</p>
+            <p>Espana</p>
           </div>
           <ul>
             <li>Email: <a href="mailto:spencerjames.johnson@students.salle.url.edu">spencerjames.johnson@students.salle.url.edu</a></li>
-            <li>US-Phone: +1(989)-545-9391</li>
+            <li>US-Phone: </li>
           </ul>
           </address>
         </section>
